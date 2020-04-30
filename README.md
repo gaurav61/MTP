@@ -1,1 +1,1 @@
-# Masters project
+# M.Tech project
